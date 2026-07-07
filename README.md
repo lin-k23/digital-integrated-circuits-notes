@@ -31,14 +31,14 @@ Obsidian-style review notes for Digital Integrated Circuits.
 - [[07-时序逻辑/README|07-时序逻辑]]
 - [[08-延迟与功耗/README|08-延迟与功耗]]
 - [[09-互连影响与应对/README|09-互连影响与应对]]
-- [[10-测试与可靠性/README|10-测试与可靠性]]
+- [[10-时序问题与时钟/README|10-时序问题与时钟]]
 - [[99-模板/README|99-模板]]
 
 ## 当前资料状态
 
-当前优先整理资料：`source/ch9_en.pdf`。
+当前优先整理资料：`source/ch10_en.pdf`。
 
-`ch9_en.pdf` 为英文文字版 PDF，直接文本提取可用。整理采用：
+`ch10_en.pdf` 为英文文字版 PDF，直接文本提取可用。整理采用：
 
 ```text
 文字版校对 + 分小节整理 + 公式重点核对 + 图片占位符
