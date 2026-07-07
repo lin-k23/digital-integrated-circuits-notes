@@ -30,16 +30,16 @@ Obsidian-style review notes for Digital Integrated Circuits.
 - [[06-CMOS组合逻辑/README|06-CMOS组合逻辑]]
 - [[07-时序逻辑/README|07-时序逻辑]]
 - [[08-延迟与功耗/README|08-延迟与功耗]]
-- [[09-存储器与阵列结构/README|09-存储器与阵列结构]]
+- [[09-互连影响与应对/README|09-互连影响与应对]]
 - [[10-测试与可靠性/README|10-测试与可靠性]]
 - [[99-模板/README|99-模板]]
 
 ## 当前资料状态
 
-当前优先整理资料：`source/ch3.pdf`。
+当前优先整理资料：`source/ch9_en.pdf`。
 
-`ch3.pdf` 为扫描版 PDF，直接文本提取不可用。后续整理采用：
+`ch9_en.pdf` 为英文文字版 PDF，直接文本提取可用。整理采用：
 
 ```text
-人工辅助 + 分小节整理 + 公式重点核对 + 图片占位符
+文字版校对 + 分小节整理 + 公式重点核对 + 图片占位符
 ```
