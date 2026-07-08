@@ -10,7 +10,7 @@
 - 掌握 NMOS / PMOS 串并联网络与布尔逻辑之间的对应关系。
 - 能够从布尔表达式构造 NAND、NOR 和复杂 CMOS 门。
 - 理解为什么 NMOS 适合下拉、PMOS 适合上拉。
-- 建立后续学习 ratioed logic、pass-transistor logic、dynamic logic 和 logic style 选择的框架。
+- 建立后续学习 ratioed logic、pass-transistor logic、[[动态CMOS逻辑|dynamic CMOS logic]] 和 logic style 选择的框架。
 
 ## PDF 可整理性
 
@@ -25,6 +25,7 @@
 - 已整理初稿：6.2.1 [[互补CMOS逻辑门]]。
 - 已整理初稿：[[PUN与PDN构造规则]]。
 - 已整理初稿：[[NAND与NOR门设计]]。
+- 已建立入口：6.3 [[动态CMOS逻辑]]。
 - 下一步建议：继续整理复杂 CMOS 门综合、晶体管尺寸与延迟、逻辑努力、功耗和 glitching。
 
 ## 知识点索引
@@ -34,6 +35,7 @@
 - [[互补CMOS逻辑门]]
 - [[PUN与PDN构造规则]]
 - [[NAND与NOR门设计]]
+- [[动态CMOS逻辑]]
 - [[公式与考点速查]]
 
 ## 前置链接
