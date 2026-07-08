@@ -10,13 +10,15 @@
 - 掌握 NMOS / PMOS 串并联网络与布尔逻辑之间的对应关系。
 - 能够从布尔表达式构造 NAND、NOR 和复杂 CMOS 门。
 - 理解为什么 NMOS 适合下拉、PMOS 适合上拉。
-- 建立后续学习 ratioed logic、pass-transistor logic、[[动态CMOS逻辑|dynamic CMOS logic]] 和 logic style 选择的框架。
+- 掌握 [[动态CMOS逻辑|dynamic CMOS logic]] 的 precharge/evaluate、charge sharing、keeper、monotonicity 和 cascading 风险。
+- 建立后续学习 ratioed logic、pass-transistor logic 和 logic style 选择的框架。
 
 ## PDF 可整理性
 
 - 英文来源 PDF：`source/ch6_en.pdf`，可直接提取文字。
+- 补充参考：用户上传 `VLSI Design : 2021-22 Lecture 12 Dynamic Logic` 课件。
 - 评估记录：[[第6章可整理性评估]]
-- 处理策略：以英文文字版为公式、变量和章节结构基准；中文术语沿用前面章节和课程常用译法。
+- 处理策略：以英文文字版为公式、变量和章节结构基准；课件用于补充 dynamic logic 的课堂图像、直觉、公式和易错点；中文术语沿用前面章节和课程常用译法。
 
 ## 当前整理进度
 
@@ -25,8 +27,8 @@
 - 已整理初稿：6.2.1 [[互补CMOS逻辑门]]。
 - 已整理初稿：[[PUN与PDN构造规则]]。
 - 已整理初稿：[[NAND与NOR门设计]]。
-- 已建立入口：6.3 [[动态CMOS逻辑]]。
-- 下一步建议：继续整理复杂 CMOS 门综合、晶体管尺寸与延迟、逻辑努力、功耗和 glitching。
+- 已整理初稿：6.3 入口与课堂重点 [[动态CMOS逻辑]]。
+- 下一步建议：继续整理 ratioed logic、pass-transistor logic、复杂 CMOS 门综合、逻辑努力、功耗和 glitching。
 
 ## 知识点索引
 
@@ -45,6 +47,7 @@
 - [[../05-CMOS反相器/静态CMOS反相器直觉模型|静态CMOS反相器直觉模型]]
 - [[../05-CMOS反相器/动态行为与传播延迟|动态行为与传播延迟]]
 - [[../05-CMOS反相器/功耗与能量模型|功耗与能量模型]]
+- [[../09-互连影响与应对/电容串扰与可靠性|电容串扰与可靠性]]
 
 ## 图片占位规则
 
